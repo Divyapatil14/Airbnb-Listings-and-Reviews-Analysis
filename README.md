@@ -33,6 +33,12 @@ Examines review distribution and customer engagement trends across cities.
 * Mexico City achieved the highest customer ratings.
 * Cleanliness and value were important factors affecting customer satisfaction.
 
+## Dataset
+
+The dataset used in this project is the Airbnb Listings & Reviews dataset from Maven Analytics Data Playground.
+
+Due to file size limitations, the original dataset is not included in this repository.
+
 ## Author
 
 **Divya Patil**
