@@ -9,6 +9,7 @@ This project analyzes Airbnb listings and customer reviews across multiple globa
 * Power BI
 * DAX
 * Data Visualization
+* Excel
 
 ## Dashboard Pages
 
